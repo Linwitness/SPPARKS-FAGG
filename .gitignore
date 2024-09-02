@@ -1,0 +1,8 @@
+*.dump
+*.jpeg
+*.mp4
+.DS_Store
+.vscode/
+examples/
+src/Obj_agg
+src/spk_agg
